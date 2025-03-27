@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\views\\restaurants\\_restaurantsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\views\\restaurants\\_restaurantsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|c:\\users\\artem\\riderprojects\\odetofood\\odetofood.web\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB46A4-1A8E-4FF7-99D7-C1C80FA0667F}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "OdeToFood.Web\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:40:20.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OdeToFood.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T20:17:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Views\\Restaurants\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeToolTip": "OdeToFood.Web\\Views\\Restaurants\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T20:17:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "OdeToFood.Web\\Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T20:16:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_RestaurantSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\_RestaurantSummary.cshtml",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Views\\Restaurants\\_RestaurantSummary.cshtml",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Views\\Restaurants\\_RestaurantSummary.cshtml",
+              "RelativeToolTip": "OdeToFood.Web\\Views\\Restaurants\\_RestaurantSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T20:16:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\Artem\\RiderProjects\\OdeToFood\\OdeToFood.Web\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "OdeToFood.Web\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:35:26.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFoo.61A22B8B.Up2Date
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\Users\Artem\RiderProjects\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
